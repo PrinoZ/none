@@ -13,5 +13,5 @@
 不要登陆icloud，不要在设置里面的apple id那里登陆账号，一定要在app store处也就是苹果商店那里登陆苹果账号。
 # 科学上网
 https://dashboard.ouonet.work/register?aff=LsVLB6gK 
-
-注册后这里下载客户端，订阅后客户端内导入URL即可。
+![](https://github.com/PrinoZ/none/blob/main/res/image1.png)
+注册后这里下载客户端，订阅后在客户端内导入URL即可。
